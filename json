@@ -1,2 +1,0 @@
-url = 'https://raw.githubusercontent.com/Adamdongrt/Cereal-project/main/Cereal%20project'
-response = requests.get(url).json()
